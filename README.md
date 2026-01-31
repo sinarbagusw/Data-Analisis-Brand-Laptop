@@ -1,2 +1,2 @@
 # Data-Analisis-Brand-Laptop
-Analisis pengaruh brand laptop terhadap harga jualnya serta brand apa saja yang 'hidden gem'
+Dekomposisi Harga Laptop Analisis Faktor Kunci, Brand Tax, dan Value for Money dengan Pendekatan Machine Learning
